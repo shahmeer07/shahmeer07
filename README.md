@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahmeer07&label=Profile%20views&color=0e75b6&style=flat" alt="shahmeer07" /> </p>
 
-- 🔭 I’m currently working on **React & React Native**
+- 🔭 I’m currently working on **Data Analysis and Big Data**
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **Django & D-Apps**
+- 🤝 I’m looking for help with **Big Data**
 
 - 💬 Ask me about **MERN stack and React Native**
 
