@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahmeer07&label=Profile%20views&color=0e75b6&style=flat" alt="shahmeer07" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis and Big Data**
+- 🔭 I’m currently working on **Oracle NetSuite**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **SuiteScript 2.0 and SuiteTalk**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **NetSuite Customisation Projects**
 
-- 🤝 I’m looking for help with **Big Data**
+- 🤝 I’m looking for help with **NetSuite Customisations**
 
-- 💬 Ask me about **MERN stack and React Native**
+- 💬 Ask me about **JavaScript and SuiteScript**
 
 - 📫 How to reach me **shahmeerk3000@gmail.com**
 
