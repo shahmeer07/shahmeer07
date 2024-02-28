@@ -21,6 +21,8 @@
 
 ![Shahmeer Khan's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=shahmeer07&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer07&layout=compact&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
