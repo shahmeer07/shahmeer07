@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I code at 3x when i have had my morning coffee**
 
-![Shahmeer Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahmeer07&show_icons=true&theme=radical)
+
 
 ![Shahmeer Khan's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=shahmeer07&theme=radical)
 
