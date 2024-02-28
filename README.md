@@ -17,6 +17,11 @@
 
 - ⚡ Fun fact **I code at 3x when i have had my morning coffee**
 
+![Shahmeer Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahmeer07&show_icons=true&theme=radical)
+
+![Shahmeer Khan's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=shahmeer07&theme=radical)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shahmeer-khan-a2912b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shahmeer-khan-a2912b223/" height="30" width="40" /></a>
