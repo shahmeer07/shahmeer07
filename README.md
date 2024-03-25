@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahmeer Khan</h1>
-<h3 align="center">A passionate JavaScript and Oracle NetSuite Developer</h3>
+<h3 align="center">A passionate JavaScript Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahmeer07&label=Profile%20views&color=0e75b6&style=flat" alt="shahmeer07" /> </p>
 
-- 🔭 I’m currently working on **Oracle NetSuite**
+- 🔭 I’m currently working on **SuiteScripts**
 
 - 🌱 I’m currently learning **SuiteScript 2.0 and SuiteTalk**
 
-- 👯 I’m looking to collaborate on **NetSuite Customisation Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **NetSuite Customisations**
 
