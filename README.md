@@ -1,35 +1,56 @@
-<h1 align="center">Hi 👋, I'm Shahmeer Khan</h1>
-<h3 align="center">A passionate JavaScript Developer</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Shahmeer Khan</h1>
+<h3 align="center">A Open-Source Developer | JavaScript Specialist | ERP + AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahmeer07&label=Profile%20views&color=0e75b6&style=flat" alt="shahmeer07" /> </p>
-
-- 🔭 I’m currently working on **SuiteScripts**
-
-- 🌱 I’m currently learning **SuiteScript 2.0 and SuiteTalk**
-
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 🤝 I’m looking for help with **NetSuite Customisations**
-
-- 💬 Ask me about **JavaScript and SuiteScript**
-
-- 📫 How to reach me **shahmeerk3000@gmail.com**
-
-- ⚡ Fun fact **I code at 3x when i have had my morning coffee**
+<h4 align="center">Building scalable automation systems, developer tools, and enterprise integrations in **NetSuite, Node.js, and Cloud-native platforms</h4>
 
 
+---
 
-![Shahmeer Khan's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=shahmeer07&theme=radical)
+## 🔥 About Me
+I’m a software engineer specialising in **digital transformation**, **ERP customisation**, and **AI-driven automation**.  
+My work focuses on designing and developing:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer07&layout=compact&theme=radical)
+- ⚙️ **SuiteScript 2.x / SuiteTalk** automation for NetSuite  
+- 🌐 **Node.js middleware** connecting CRMs, ERPs, and cloud services  
+- ☁️ **Serverless architectures** on Azure & AWS  
+- 🧠 AI + Voice systems for real-time customer interaction (Servana AI)  
+- 🖥️ Full-stack web apps using React and modern JS tooling  
+
+I maintain open-source repositories that simplify enterprise integrations and help developers build complex systems faster.
+
+---
+
+## 🧩 What I Build  
+- **NetSuite integrations** (HubSpot CRM, Power Platform, M-Files, Azure apps)  
+- **Custom middleware** for OAuth 2.0, RESTlets, and enterprise APIs  
+- **Full-stack and microservices applications**  
+- **Advanced HTML/PDF templates** for business systems  
+- **Developer-friendly utilities and learning resources**  
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shahmeer-khan-a2912b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shahmeer-khan-a2912b223/" height="30" width="40" /></a>
-<a href="https://fb.com/www.facebook.com/shahmeerk519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/shahmeerk519" height="30" width="40" /></a>
-<a href="https://instagram.com/www.facebook.com/shahmeer_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.facebook.com/shahmeer_07" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🎓 Currently
+- Pursuing my **Master's in Computing Science & Technology** at Ulster University  
+- Researching **AI voice agents** in digital transformation  
+- Building **Cervana AI**, a voice AI assistant for SMEs
+
+---
+
+## 💬 Ask Me About
+- NetSuite automation & SuiteScript  
+- Cloud integrations  
+- Node.js backend engineering  
+- JavaScript patterns & architecture  
+- AI for enterprise workflows
+
+---
+
+## 📫 Connect
+📧 **Email:** shahmeerk3000@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/muhammad-shahmeer-khan-a2912b223  
+
+---
+
+### ⚡ Built with passion at 3× speed (after coffee).
+
