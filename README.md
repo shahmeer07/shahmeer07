@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 About Me
+## About Me
 I’m a software engineer specialising in **digital transformation**, **ERP customisation**, and **AI-driven automation**.  
 My work focuses on designing and developing:
 
