@@ -13,7 +13,7 @@ My work focuses on designing and developing:
 - ⚙️ **SuiteScript 2.x / SuiteTalk** automation for NetSuite  
 - 🌐 **Node.js middleware** connecting CRMs, ERPs, and cloud services  
 - ☁️ **Serverless architectures** on Azure & AWS  
-- 🧠 AI + Voice systems for real-time customer interaction (Servana AI)  
+- 🧠 AI + Voice systems for real-time customer interaction 
 - 🖥️ Full-stack web apps using React and modern JS tooling  
 
 I maintain open-source repositories that simplify enterprise integrations and help developers build complex systems faster.
