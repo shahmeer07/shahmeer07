@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahmeer Khan</h1>
 <h3 align="center">A Open-Source Developer | JavaScript Specialist | ERP + AI Engineer</h3>
 
-<h4 align="center">Building scalable automation systems, developer tools, and enterprise integrations in **NetSuite, Node.js, and Cloud-native platforms</h4>
+<h4 align="center">Building scalable automation systems, developer tools, and enterprise integrations in NetSuite, Node.js, and Cloud-native platforms</h4>
 
 
 ---
