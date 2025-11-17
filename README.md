@@ -52,5 +52,5 @@ I maintain open-source repositories that simplify enterprise integrations and he
 
 ---
 
-### ⚡ Built with passion at 3× speed (after coffee).
+### ⚡ Building with passion at 3× speed (after coffee).
 
