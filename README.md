@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahmeer Khan</h1>
-<h3 align="center">A Open-Source Developer | JavaScript Specialist | ERP + AI Engineer</h3>
+<h3 align="center">A Open-Source Developer | JavaScript Specialist | Enterprise Systems + AI Engineer</h3>
 
 <h4 align="center">Building scalable automation systems, developer tools, and enterprise integrations in NetSuite, Node.js, and Cloud-native platforms</h4>
 
@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-I’m a software engineer specialising in **digital transformation**, **ERP customisation**, and **AI-driven automation**.  
+I’m a software engineer specialising in **digital transformation**, **Enterprise systems customisation**, and **AI-driven automation**.  
 My work focuses on designing and developing:
 
 - ⚙️ **SuiteScript 2.x / SuiteTalk** automation for NetSuite  
