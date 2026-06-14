@@ -28,12 +28,7 @@ I maintain open-source repositories that simplify enterprise integrations and he
 - **Developer-friendly utilities and learning resources**  
 
 
----
 
-## 🎓 Currently
-- Pursuing my **Master's in Computing Science & Technology** at Ulster University  
-- Researching **AI voice agents** in digital transformation  
-- Building **Cervana AI**, a voice AI assistant for SMEs
 
 ---
 
